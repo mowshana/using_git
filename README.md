@@ -1,2 +1,2 @@
-# using_git
+# Using Git
 Git related all informations are displayed here....
